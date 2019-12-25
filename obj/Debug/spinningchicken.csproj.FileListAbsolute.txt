@@ -1,0 +1,11 @@
+C:\Users\bezi2\source\repos\spinningchicken\bin\Debug\spinningchicken.exe.config
+C:\Users\bezi2\source\repos\spinningchicken\bin\Debug\spinningchicken.exe
+C:\Users\bezi2\source\repos\spinningchicken\bin\Debug\spinningchicken.pdb
+C:\Users\bezi2\source\repos\spinningchicken\obj\Debug\spinningchicken.csprojAssemblyReference.cache
+C:\Users\bezi2\source\repos\spinningchicken\obj\Debug\spinningchicken.Form1.resources
+C:\Users\bezi2\source\repos\spinningchicken\obj\Debug\spinningchicken.Properties.Resources.resources
+C:\Users\bezi2\source\repos\spinningchicken\obj\Debug\spinningchicken.csproj.GenerateResource.cache
+C:\Users\bezi2\source\repos\spinningchicken\obj\Debug\spinningchicken.exe
+C:\Users\bezi2\source\repos\spinningchicken\obj\Debug\spinningchicken.pdb
+C:\Users\bezi2\source\repos\spinningchicken\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bezi2\source\repos\spinningchicken\obj\Debug\spinningchicken.csproj.CopyComplete
