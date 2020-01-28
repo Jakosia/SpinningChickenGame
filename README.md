@@ -1,4 +1,4 @@
 # Spinning-Chicken
-this game is based on Flappy Bird
-#Music:
-#Graphic:
+this game is based on Flappy Bird <br/
+Music:
+Graphic:
