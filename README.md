@@ -6,7 +6,7 @@
 * [Screenshots](#screenshots)  
 * [Technologies](#technologies)   
 * [Status](#status)  
-* [To-do](#to-do)
+* [To-do list:](#to-do)
 * [Contact](#contact)
 
 ## General Info  
