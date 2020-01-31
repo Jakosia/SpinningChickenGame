@@ -1,32 +1,32 @@
 # SimonGame
 > Simple game based on Flappy Bird. 
 
-## Table of contents  
+## Table of contents
 * [General info](#general-info)  
 * [Screenshots](#screenshots)  
 * [Technologies](#technologies)   
 * [Status](#status)  
-* [To-do](#to-do)
+* [To-do](#to-do)  
 * [Contact](#contact)
 
-## General Info  
+## General Info 
 ...
 
-## Screenshots  
+## Screenshots
 ![image](https://user-images.githubusercontent.com/52860350/73563613-0e8da580-445e-11ea-9b97-5e6927e36b73.png)   
 
-## Technologies  
+## Technologies 
 * C# WinForm  
 
-## Status  
+## Status
 Project is in progress  
 
-## To-do  
+## To-do
 * refactoring  
 * tube texture  
 * game over sound  
 
-## Contact  
+## Contact
 Sound: https://soundcloud.com/matthewdysko  
 Graphic: https://www.instagram.com/quosiia/?hl=pl
 
