@@ -21,7 +21,7 @@
 ## Status  
 Project is in progress  
 
-## To-do list:  
+## To-do  
 * refactoring  
 * tube texture  
 * game over sound  
