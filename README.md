@@ -6,7 +6,7 @@
 * [Screenshots](#screenshots)  
 * [Technologies](#technologies)   
 * [Status](#status)  
-* [To-do list:](#to-do)
+* [To-do:](#to-do)
 * [Contact](#contact)
 
 ## General Info  
@@ -26,7 +26,7 @@ Project is in progress
 * tube texture  
 * game over sound  
 
-## Contacy  
+## Contact  
 Sound: https://soundcloud.com/matthewdysko  
 Graphic: https://www.instagram.com/quosiia/?hl=pl
 
