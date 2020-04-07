@@ -1,4 +1,4 @@
-# SimonGame
+# 
 > Simple game based on Flappy Bird. 
 
 ## Screenshots
